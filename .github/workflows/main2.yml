@@ -2,7 +2,7 @@ name: Get Feed - U.S. Macroeconomic Variables
 
 on:
   schedule:
-    - cron: '40 00 * * *' # 5:40 PM PST
+    - cron: '00 12 * * *' # 5:00 AM PST
   workflow_dispatch:
 
 jobs:
