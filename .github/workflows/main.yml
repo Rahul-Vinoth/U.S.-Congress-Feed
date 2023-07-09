@@ -1,4 +1,4 @@
-name: Get Feed U.S. Congress
+name: Get Feed - U.S. Congress
 
 on:
   schedule:
